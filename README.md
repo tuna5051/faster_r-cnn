@@ -1,4 +1,4 @@
-# (WIP) faster_r-cnn
+# faster_r-cnn
 A simple python modal for recognizing cats and dogs.
 
 ## Introduction
